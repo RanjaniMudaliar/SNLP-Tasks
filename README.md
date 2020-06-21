@@ -14,3 +14,5 @@
 7 Text Phrase structure file contains the Parse Tree for Tamil Sentence given in HW just to explore more
 
 8 FSA for adjective file contains FSA for Adjectives POS for Tamil Language
+
+9 Spacy_Implementation has the Digital Assignment implementation of nlp tool other than NLTK
