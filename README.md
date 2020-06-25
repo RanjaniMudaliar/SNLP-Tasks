@@ -16,3 +16,9 @@
 8 FSA for adjective file contains FSA for Adjectives POS for Tamil Language
 
 9 Spacy_Implementation has the Digital Assignment implementation of nlp tool other than NLTK
+
+10 Chunking_of_LOR's file has chunking and chinking for LOR sample 1 and LOP sample 2
+
+11 June 25 Hands_on file has class work
+
+12 INLTK_TAMIL files has inltk functions for tamil language with small sentence
