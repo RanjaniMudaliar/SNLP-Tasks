@@ -1,6 +1,5 @@
 # SNLP-Tasks
-1 NLTK MAY 22 2020 file has first day hands-on and some extra task also done
-
+<a href="paste here link name of ipynb in jupyter ">1.NLTK MAY 22 2020 file has first day hands-on and some extra task also done
 2 MAY 29 2020 has second day hands-on
 
 3 TEXT_STEM_TOKENIZE_POS file contains the HW given on doing stemming and tagging for any text file (i took file from GUTENBERG)
@@ -38,4 +37,7 @@ Research Papers: 1.	Makwana, Monika T., and Deepak C. Vegda. "Survey: Natural La
                  3.	Dhanalakshmi, V., R. U. Rekha, Arun Kumar, K. P. Soman, and S. Rajendran. "Morphological analyzer for agglutinative languages using machine learning approaches." In 2009 International Conference on Advances in Recent Technologies in Communication and Computing, pp. 433-435. IEEE, 2009.
                  
  17 Task for 27 file has the summary of Regional Language Tasks
+
+</a> <br>
+
 
