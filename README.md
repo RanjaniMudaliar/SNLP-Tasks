@@ -22,3 +22,11 @@
 11 June 25 Hands_on file has class work
 
 12 INLTK_TAMIL files has inltk functions for tamil language with small sentence
+
+13 Embedding file contains word vectorization of small text
+
+14 Embedding_tasks file has application of Sentiment Analysis other than we did in class
+
+15 Sentiment_Analysis_Logistic_Regression file is Hands-on work done in class
+
+
